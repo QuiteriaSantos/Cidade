@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Praia Grande");
+Console.WriteLine("Itanhaem");
+Console.WriteLine("Peruibe");
+Console.WriteLine("São Vicente");
+Console.WriteLine("Santos");
+Console.WriteLine("Guaruja");
+Console.WriteLine("Bertioga");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Itariri");
+Console.WriteLine("Pedro de Toeledo");
